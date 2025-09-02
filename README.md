@@ -1,4 +1,4 @@
-# **RAG Chatbot with ChromaDB and LLM Integration**
+# **DocuBot**
 
 This project is a **Retrieval-Augmented Generation (RAG) Chatbot** that combines ChromaDB for document retrieval and a large language model (LLM) for answer generation. The chatbot provides intelligent responses based on information from provided PDFs, making it useful for complex document-driven Q&A.
 
@@ -18,9 +18,9 @@ This project is a **Retrieval-Augmented Generation (RAG) Chatbot** that combines
 
 **Clone the repository** and **install dependencies**:
    ```bash
-   git clone https://github.com/patilkalpesh/RAG-Chatbot-with-ChromaDB-and-LLM-Integration.git
+   git clone https://github.com/prathamesh0421/DocuBot.git
 
-   cd RAG-Chatbot-with-ChromaDB-and-LLM-Integration
+   cd DocuBot
 
    pip install -r requirements.txt
 ```
